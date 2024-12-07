@@ -4,10 +4,13 @@ Jennifer Ailin Medina Hernandez
 ## Fotos del proceso
 <br>
 <img src="https://github.com/user-attachments/assets/9589076f-93cf-439e-8b6a-0ec4b4902ab8" width="250"/>
-<br>
-<br>
+
 <img src="https://github.com/user-attachments/assets/0c2302f6-fb7f-4b34-8ab2-86a72e0bf56f" width="250"/>
-<br>
+
+<img src="https://github.com/user-attachments/assets/a9c0cd96-47f7-4682-a0ab-f53dfe6c7715" width="250"/>
+<img src="https://github.com/user-attachments/assets/cf0f5f1c-701e-453d-a96e-0d9f1ed89a9f" width="250"/>
+
+
 
 ## Link TikTok
 https://vm.tiktok.com/ZMkRAHy8c/
