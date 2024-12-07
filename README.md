@@ -2,12 +2,21 @@
 Jennifer Ailin Medina Hernandez 
 <br>
 ## Fotos del proceso
+<br>
+<img src="https://github.com/user-attachments/assets/9589076f-93cf-439e-8b6a-0ec4b4902ab8" width="250"/>
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/0c2302f6-fb7f-4b34-8ab2-86a72e0bf56f" width="250"/>
+<br>
 
 ## Link TikTok
 https://vm.tiktok.com/ZMkRAHy8c/
 
 ## Node-Red
+https://drive.google.com/drive/folders/1LZkLklEk7F1K_QO4Wzbk5tiJ-kSsKeXy?usp=sharing
 
+## Videos de actividades en clase
+https://drive.google.com/drive/folders/1LZkLklEk7F1K_QO4Wzbk5tiJ-kSsKeXy?usp=sharing
 
 ## Curso JavaScript en Netacad 
 
