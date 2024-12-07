@@ -4,6 +4,10 @@ Jennifer Ailin Medina Hernandez
 ## Fotos del proceso
 
 ## Link TikTok
+https://vm.tiktok.com/ZMkRAHy8c/
+
+## Node-Red
+
 
 ## Curso JavaScript en Netacad 
 
@@ -32,6 +36,11 @@ Jennifer Ailin Medina Hernandez
 <img src="https://github.com/user-attachments/assets/d42cd9c4-c217-47e3-9664-2e3dacb88437" width="500"/>
 <br>
 --Examen FINAL--
+<br>
+<img src="" width="500"/>
+<br>
+
+-TOTAL EXAMENES--
 <br>
 <img src="" width="500"/>
 <br>
