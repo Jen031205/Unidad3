@@ -47,10 +47,10 @@ https://drive.google.com/drive/folders/1LZkLklEk7F1K_QO4Wzbk5tiJ-kSsKeXy?usp=sha
 <br>
 --Examen FINAL--
 <br>
-<img src="" width="500"/>
+<img src="https://github.com/user-attachments/assets/caf82b97-1d8c-47bf-bdb1-2b0c676206f3" width="500"/>
 <br>
 
 -TOTAL EXAMENES--
 <br>
-<img src="" width="500"/>
+<img src="https://github.com/user-attachments/assets/8212c2e6-2d8f-49ec-a58c-1b6faf87cc6d" width="500"/>
 <br>
